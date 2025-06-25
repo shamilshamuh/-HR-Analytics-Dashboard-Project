@@ -1,26 +1,18 @@
 # -HR-Analytics-Dashboard-Project
 An interactive HR Analytics Dashboard built with Power BI to visualize and analyze employee attrition, job satisfaction, and demographic trends for strategic HR decision-making.
 
-# -🔍 Objective:
-To analyze employee attrition, job satisfaction, and demographic trends within an organization to support strategic HR decisions.
+# 🎯 Project Objectives
 
-# -📊 Key Insights Delivered:
-📌 Overall Workforce: 1,470 employees, with an attrition count of 237 (16.12% attrition rate).
+To analyze employee attrition rates and identify key factors influencing turnover.
+To explore demographic trends such as age, gender, and education to support HR planning.
+To evaluate job satisfaction across departments and roles for actionable insights.
+To develop an interactive Power BI dashboard that enables strategic HR decision-making.
+To support retention strategies by uncovering patterns in employee behavior and satisfaction.
 
-# -👩‍💼 Department-wise Attrition:
-R&D shows the highest attrition (56.12%), followed by Sales and HR.
+# Problem Statement
+Organizations often face challenges in understanding the root causes of employee attrition and satisfaction due to scattered or unstructured HR data. Without clear insights into workforce trends—such as which departments have the highest turnover or how demographic factors influence retention—HR teams struggle to make informed decisions. This project addresses the need for a data-driven solution by building an interactive Power BI dashboard that uncovers key patterns in attrition, job satisfaction, and employee demographics, enabling smarter and more strategic HR actions.
 
-# -📈 Age Group Distribution:
-Most employees are in the 25–34 and 35–44 age bands.
 
-# -🧑‍🔬 Job Satisfaction Analysis:
-Sales Executives and Research Scientists have the highest headcounts.
-Satisfaction rating trends clearly visible across roles.
 
-# -🎓 Education & Attrition:
-Life Sciences and Medical fields report the highest attrition by education.
 
-# -👥 Gender-based Attrition Rate by Age Group for targeted retention strategies.
 
-# -🛠️ Tools Used:
-Power BI | DAX | Data Modeling | Data Visualization
