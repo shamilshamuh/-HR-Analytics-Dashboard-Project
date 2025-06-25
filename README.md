@@ -24,6 +24,20 @@ https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20D
 # -Detailed Report
 
 https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/Detailed%20Report
+#  📊 Key Findings:
+-Total Employees: 1,470
+-Attrition Count: 237 (16.12% attrition rate)
+-Department-wise Attrition: Highest in R&D (56.12%), followed by Sales and HR
+-Age Distribution: Majority in the 25–34 and 35–44 age groups
+-Job Satisfaction: Sales Executives and Research Scientists had the highest headcounts; satisfaction trends vary across roles
+-Education & Attrition: Life Sciences and Medical graduates showed the highest attrition
+-Gender-Based Insights: Attrition trends segmented by gender and age for targeted retention efforts
+
+# 🛠️ Tools & Techniques:
+-Power BI
+-DAX
+-Data Modeling
+-Data Visualization
 
 # Conclution
 This HR Analytics Dashboard provides actionable insights into employee attrition, satisfaction, and demographics. By leveraging Power BI, HR teams can make data-driven decisions to improve retention strategies, enhance employee engagement, and optimize workforce planning.
