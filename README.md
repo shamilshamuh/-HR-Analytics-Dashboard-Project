@@ -16,6 +16,7 @@ Organizations often face challenges in understanding the root causes of employee
 # Dataset
 https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20Data.csv
 
-
+# Dashboard
+HR%20Dashboard.jpeg
 
 
