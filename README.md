@@ -18,6 +18,9 @@ https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20D
 
 # Dashboard
 https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20Dashboard.jpeg
+![HR Analyst Dashboard project ](https://github.com/user-attachments/assets/f752a595-3842-455d-83c7-4f06af499e85)
 
+
+# -Detailed Report
 
 
