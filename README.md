@@ -23,4 +23,7 @@ https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20D
 
 # -Detailed Report
 
+https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/Detailed%20Report
 
+# Conclution
+This HR Analytics Dashboard provides actionable insights into employee attrition, satisfaction, and demographics. By leveraging Power BI, HR teams can make data-driven decisions to improve retention strategies, enhance employee engagement, and optimize workforce planning.
