@@ -1,0 +1,15 @@
+#  📊 Key Findings:
+-Total Employees: 1,470
+-Attrition Count: 237 (16.12% attrition rate)
+-Department-wise Attrition: Highest in R&D (56.12%), followed by Sales and HR
+-Age Distribution: Majority in the 25–34 and 35–44 age groups
+-Job Satisfaction: Sales Executives and Research Scientists had the highest headcounts; satisfaction trends vary across roles
+-Education & Attrition: Life Sciences and Medical graduates showed the highest attrition
+-Gender-Based Insights: Attrition trends segmented by gender and age for targeted retention efforts
+
+# 🛠️ Tools & Techniques:
+-Power BI
+-DAX
+-Data Modeling
+-Data Visualization
+
