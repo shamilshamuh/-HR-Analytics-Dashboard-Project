@@ -25,13 +25,13 @@ https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/HR%20D
 
 https://github.com/shamilshamuh/-HR-Analytics-Dashboard-Project/blob/main/Detailed%20Report
 #  📊 Key Findings:
--Total Employees: 1,470
--Attrition Count: 237 (16.12% attrition rate)
--Department-wise Attrition: Highest in R&D (56.12%), followed by Sales and HR
--Age Distribution: Majority in the 25–34 and 35–44 age groups
--Job Satisfaction: Sales Executives and Research Scientists had the highest headcounts; satisfaction trends vary across roles
--Education & Attrition: Life Sciences and Medical graduates showed the highest attrition
--Gender-Based Insights: Attrition trends segmented by gender and age for targeted retention efforts
+1 -Total Employees: 1,470.
+2 -Attrition Count: 237 (16.12% attrition rate).
+3 -Department-wise Attrition: Highest in R&D (56.12%), followed by Sales and HR.
+4 -Age Distribution: Majority in the 25–34 and 35–44 age groups.
+5 -Job Satisfaction: Sales Executives and Research Scientists had the highest headcounts; satisfaction trends vary across roles.
+6 -Education & Attrition: Life Sciences and Medical graduates showed the highest attrition.
+7 -Gender-Based Insights: Attrition trends segmented by gender and age for targeted retention efforts.
 
 # 🛠️ Tools & Techniques:
 -Power BI
